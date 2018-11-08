@@ -1,2 +1,2 @@
 # hello-world
-Repository for class assignment 
+Repository for HW6
